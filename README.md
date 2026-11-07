@@ -2,16 +2,15 @@
 
 <a id="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,20:410000,45:8D1010,72:E52D27,100:FF6B00&height=270&section=header&text=FLASH%20ARCHIVE&fontSize=57&fontColor=FFFFFF&fontAlignY=34&desc=THE%20GOLDEN%20AGE%20OF%20BROWSER%20GAMING&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Flash Archive retro gaming banner in black, red and orange"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,20:410000,45:8D1010,72:E52D27,100:FF6B00&height=270&section=header&text=FLASH%20ARCHIVE&fontSize=57&fontColor=FFFFFF&fontAlignY=34&desc=THE%20GOLDEN%20AGE%20OF%20BROWSER%20GAMING&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Flash Archive retro gaming banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=800&height=45&lines=INSERT+COIN+TO+CONTINUE;LOADING+FLASH+MEMORIES...;WELCOME+BACK+TO+THE+2000s.;PRESS+START." alt="Animated retro arcade text"/>
 
 <br>
 
-<img src="https://api.iconify.design/game-icons:joystick.svg?color=%23FF6B35" width="58" height="58" alt="Arcade joystick"/>
-<img src="https://api.iconify.design/game-icons:pixel-heart.svg?color=%23E63946" width="58" height="58" alt="Pixel heart"/>
-<img src="https://api.iconify.design/game-icons:gamepad.svg?color=%23FFB703" width="58" height="58" alt="Game controller"/>
-<img src="https://api.iconify.design/mdi:flash.svg?color=%23FF6B35" width="58" height="58" alt="Flash symbol"/>
+<img src="https://api.iconify.design/game-icons/joystick.svg?color=%23FF6B35" width="58" height="58" alt="Arcade joystick"/>
+<img src="https://api.iconify.design/game-icons/gamepad.svg?color=%23FFB703" width="58" height="58" alt="Game controller"/>
+<img src="https://api.iconify.design/mdi/flash.svg?color=%23FF6B35" width="58" height="58" alt="Flash symbol"/>
 
 <br><br>
 
@@ -42,7 +41,7 @@ Rediscover classic browser games through archived SWF files and the open-source 
 
 <br>
 
-[**Explore the archive**](#02--game-library) · [**Install Ruffle**](#04--installation) · [**Play a game**](#05--how-to-play) · [**Credits**](#11--acknowledgements--credits)
+[**Explore the archive**](#02--game-library) · [**Install Ruffle**](#04--ruffle-emulator) · [**Play a game**](#05--installation) · [**Credits**](#11--acknowledgements--credits)
 
 </div>
 
@@ -184,8 +183,6 @@ The screenshots are included in the repository itself. They are not mockups or i
 
 The repository also keeps the Internet Archive metadata associated with the Road of Fury collection.
 
-The metadata identifies:
-
 | Field | Recorded information |
 |---|---|
 | Collection title | Road of Fury - Flash Game Series |
@@ -214,7 +211,7 @@ Flash eventually became outdated as modern web standards developed.
 
 <div align="center">
 
-<img src="https://api.iconify.design/mdi:calendar-star.svg?color=%23FFB703" width="45" alt="Timeline icon"/>
+<img src="https://api.iconify.design/mdi/calendar-star.svg?color=%23FFB703" width="45" alt="Timeline icon"/>
 
 </div>
 
@@ -445,9 +442,9 @@ The following projects help preserve old games and software.
 
 <div align="center">
 
-<img src="https://api.iconify.design/mdi:archive-star.svg?color=%23FFB703" width="52" alt="Digital archive icon"/>
-<img src="https://api.iconify.design/mdi:database-search.svg?color=%23FF6B35" width="52" alt="Archive search icon"/>
-<img src="https://api.iconify.design/mdi:controller-classic.svg?color=%23E63946" width="52" alt="Classic gaming icon"/>
+<img src="https://api.iconify.design/mdi/archive-star.svg?color=%23FFB703" width="52" alt="Digital archive icon"/>
+<img src="https://api.iconify.design/mdi/database-search.svg?color=%23FF6B35" width="52" alt="Archive search icon"/>
+<img src="https://api.iconify.design/game-icons/retro-controller.svg?color=%23E63946" width="52" alt="Retro gaming controller"/>
 
 </div>
 
@@ -626,7 +623,7 @@ The Internet Archive metadata included in this repository identifies **IriySoft*
 
 The original creators deserve recognition for their work. Archiving a game does not transfer its copyright.
 
-### Tools and technical resources
+### Tools and technical references
 
 - [**Ruffle**](https://github.com/ruffle-rs/ruffle) for the Flash emulator included in this repository.
 - [**Adobe Flash documentation**](https://www.adobe.com/support/flashplayer/) for historical information about Flash Player.
@@ -666,10 +663,9 @@ Thank you to everyone who helped preserve the history of browser games, animatio
 
 <div align="center">
 
-<img src="https://api.iconify.design/game-icons:joystick.svg?color=%23FF6B35" width="48" height="48" alt="Arcade joystick"/>
-<img src="https://api.iconify.design/game-icons:gamepad.svg?color=%23FFB703" width="48" height="48" alt="Gamepad"/>
-<img src="https://api.iconify.design/game-icons:pixel-heart.svg?color=%23E63946" width="48" height="48" alt="Pixel heart"/>
-<img src="https://api.iconify.design/mdi:flash.svg?color=%23FF6B35" width="48" height="48" alt="Flash lightning"/>
+<img src="https://api.iconify.design/game-icons/joystick.svg?color=%23FF6B35" width="48" height="48" alt="Arcade joystick"/>
+<img src="https://api.iconify.design/game-icons/gamepad.svg?color=%23FFB703" width="48" height="48" alt="Gamepad"/>
+<img src="https://api.iconify.design/mdi/flash.svg?color=%23FF6B35" width="48" height="48" alt="Flash lightning"/>
 
 ## THANK YOU FOR VISITING FLASH ARCHIVE
 
