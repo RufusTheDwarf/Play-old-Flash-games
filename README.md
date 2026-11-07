@@ -1,427 +1,708 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120000,30:5C0000,65:B5121B,100:FF4D00&height=220&section=header&text=FLASH%20ARCHIVE&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=THE%20GOLDEN%20AGE%20OF%20BROWSER%20GAMING&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Flash Archive banner" />
+<a id="top"></a>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,20:410000,45:8D1010,72:E52D27,100:FF6B00&height=270&section=header&text=FLASH%20ARCHIVE&fontSize=57&fontColor=FFFFFF&fontAlignY=34&desc=THE%20GOLDEN%20AGE%20OF%20BROWSER%20GAMING&descSize=15&descAlignY=57&animation=fadeIn" width="100%" alt="Flash Archive retro gaming banner in black, red and orange"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=FF4D4D&center=true&vCenter=true&width=700&height=40&lines=INSERT+COIN+TO+CONTINUE;LOADING+FLASH+MEMORIES...;WELCOME+BACK+TO+2005." alt="Retro animated text" />
-
-<br>
-
-**A collection dedicated to preserving and rediscovering classic Flash games.**
-
-Explore archived SWF files, run them with Ruffle and revisit the games that shaped the early Internet.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=900&color=FF6B35&center=true&vCenter=true&width=800&height=45&lines=INSERT+COIN+TO+CONTINUE;LOADING+FLASH+MEMORIES...;WELCOME+BACK+TO+THE+2000s.;PRESS+START." alt="Animated retro arcade text"/>
 
 <br>
 
-[![Archive](https://img.shields.io/badge/PROJECT-FLASH%20ARCHIVE-E63946?style=for-the-badge)](#game-library)
-[![Emulator](https://img.shields.io/badge/EMULATOR-RUFFLE-FF6B35?style=for-the-badge&logo=rust&logoColor=white)](https://ruffle.rs/)
-[![Format](https://img.shields.io/badge/FORMAT-SWF-9D0208?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/LICENSE-CC0%201.0-6A040F?style=for-the-badge)](LICENSE)
+<img src="https://api.iconify.design/game-icons:joystick.svg?color=%23FF6B35" width="58" height="58" alt="Arcade joystick"/>
+<img src="https://api.iconify.design/game-icons:pixel-heart.svg?color=%23E63946" width="58" height="58" alt="Pixel heart"/>
+<img src="https://api.iconify.design/game-icons:gamepad.svg?color=%23FFB703" width="58" height="58" alt="Game controller"/>
+<img src="https://api.iconify.design/mdi:flash.svg?color=%23FF6B35" width="58" height="58" alt="Flash symbol"/>
+
+<br><br>
+
+**Preserving the games, memories and experiences of the Flash era.**
+
+Rediscover classic browser games through archived SWF files and the open-source Ruffle emulator.
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=FFB703)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/stargazers)
-[![Forks](https://img.shields.io/github/forks/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=E63946)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/forks)
-[![Watchers](https://img.shields.io/github/watchers/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=FF6B35)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/watchers)
-[![Issues](https://img.shields.io/github/issues/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=E63946)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=9D0208)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/commits/main)
-[![Repo Size](https://img.shields.io/github/repo-size/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash?style=flat&color=6A040F)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash)
-[![License](https://img.shields.io/badge/CONTENT-PRESERVATION-FF4D00?style=flat)](LICENSE)
+[![Archive](https://img.shields.io/badge/PROJECT-FLASH_ARCHIVE-E63946?style=flat)](https://github.com/RufusTheDwarf/Play-old-Flash-games)
+[![Ruffle](https://img.shields.io/badge/EMULATOR-RUFFLE-FF6B35?style=flat)](https://ruffle.rs/)
+[![SWF](https://img.shields.io/badge/FORMAT-SWF-9D0208?style=flat)](https://en.wikipedia.org/wiki/SWF)
+[![Preservation](https://img.shields.io/badge/FOCUS-DIGITAL_PRESERVATION-7B2CBF?style=flat)](https://archive.org/)
+[![Retro Gaming](https://img.shields.io/badge/ERA-2000s_ARCADE-FFB703?style=flat)](https://github.com/RufusTheDwarf/Play-old-Flash-games)
+[![Rust](https://img.shields.io/badge/RUFFLE-BUILT_WITH_RUST-CE422B?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Desktop](https://img.shields.io/badge/PLAYER-DESKTOP-333333?style=flat)](https://ruffle.rs/downloads/)
+[![Open Source](https://img.shields.io/badge/EMULATOR-OPEN_SOURCE-2E8B57?style=flat&logo=github&logoColor=white)](https://github.com/ruffle-rs/ruffle)
+[![License](https://img.shields.io/github/license/RufusTheDwarf/Play-old-Flash-games?style=flat&color=FF6B35)](LICENSE)
 
 <br>
 
-<a href="#about">ABOUT</a> ・
-<a href="#game-library">GAME LIBRARY</a> ・
-<a href="#installation">INSTALLATION</a> ・
-<a href="#how-to-play">HOW TO PLAY</a> ・
-<a href="#resources">RESOURCES</a>
+[![Stars](https://img.shields.io/github/stars/RufusTheDwarf/Play-old-Flash-games?style=flat&color=FFB703)](https://github.com/RufusTheDwarf/Play-old-Flash-games/stargazers)
+[![Forks](https://img.shields.io/github/forks/RufusTheDwarf/Play-old-Flash-games?style=flat&color=E63946)](https://github.com/RufusTheDwarf/Play-old-Flash-games/forks)
+[![Watchers](https://img.shields.io/github/watchers/RufusTheDwarf/Play-old-Flash-games?style=flat&color=FF6B35)](https://github.com/RufusTheDwarf/Play-old-Flash-games/watchers)
+[![Issues](https://img.shields.io/github/issues/RufusTheDwarf/Play-old-Flash-games?style=flat&color=E63946)](https://github.com/RufusTheDwarf/Play-old-Flash-games/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/RufusTheDwarf/Play-old-Flash-games?style=flat&color=9D0208)](https://github.com/RufusTheDwarf/Play-old-Flash-games/commits/main)
+[![Repository Size](https://img.shields.io/github/repo-size/RufusTheDwarf/Play-old-Flash-games?style=flat&color=6A040F)](https://github.com/RufusTheDwarf/Play-old-Flash-games)
+
+<br>
+
+[**Explore the archive**](#02--game-library) · [**Install Ruffle**](#04--installation) · [**Play a game**](#05--how-to-play) · [**Credits**](#11--acknowledgements--credits)
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:5C0000,35:E63946,70:FF6B35,100:FFB703" width="100%" alt="Red orange yellow arcade divider"/>
+</p>
 
-## `01` / About
+<div align="center">
 
-Remember the days when opening a browser meant discovering hundreds of small games?
+<img src="games/Road_Of_Fury/roadoffury1-menu.png" width="92%" alt="Original Road of Fury Flash game main menu"/>
+
+<br>
+
+<sub>ROAD OF FURY // Original Flash game preserved in the archive</sub>
+
+<br><br>
+
+**THE GAMES ARE STILL HERE. THE MEMORIES ARE STILL HERE.**
+
+</div>
+
+## 01 / About Flash Archive
+
+Remember opening a browser and discovering hundreds of small games?
 
 Before modern gaming platforms, Flash games were everywhere. Racing games, platformers, shooters, strategy games, physics experiments and strange little animations were part of everyday Internet culture.
 
-**Flash Archive** is a personal preservation project dedicated to rediscovering that era.
+**Flash Archive** is a personal digital preservation project dedicated to rediscovering that era.
 
 The repository brings together:
 
 - Preserved `.swf` game files.
-- Ruffle, an open-source Flash emulator.
-- Screenshots and game-related material.
-- Installation guides for different operating systems.
+- A bundled Ruffle desktop emulator for Windows.
+- Screenshots and original game material.
+- Ruffle documentation and licensing information.
+- Internet Archive metadata and preservation files.
 - References to other digital preservation projects.
 
-The idea is simple: keep old games accessible without depending on the discontinued Adobe Flash Player.
+The goal is simple: keep old games accessible without relying on the discontinued Adobe Flash Player.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:FFB703,50:FF6B35,100:E63946" width="75%" alt="Gold orange red divider"/>
+</p>
+
+## 02 / Game Library
+
+<badge color="success">SWF archive included</badge>
+
+The current collection focuses primarily on the **Road of Fury** series and its associated archived material.
+
+The repository contains four distinct SWF files by content, alongside two additional filename-based copies that are byte-for-byte identical to other files.
+
+### Available games
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=120000&height=3&section=header" width="75%" alt="Red divider" />
+<img src="games/Road_Of_Fury/__ia_thumb.jpg" width="82%" alt="Internet Archive thumbnail for the Road of Fury Flash game collection"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3500&pause=1000&color=FF6B35&center=true&vCenter=true&width=550&height=32&lines=THE+GAMES+ARE+STILL+HERE.;THE+MEMORIES+ARE+STILL+HERE.;PRESS+START." alt="Archive animation" />
+<sub>Road of Fury Flash Game Series // Archived collection thumbnail</sub>
 
 </div>
 
-## `02` / The Flash era
+| Game file | Description | Size |
+|---|---|---:|
+| [Road of Fury](games/Road_Of_Fury/Road_of_Fury.swf) | Original game | 3.62 MB |
+| [Road of Fury 2](games/Road_Of_Fury/roadoffury2.swf) | Second game | 6.49 MB |
+| [Road of Fury 2 - December build](games/Road_Of_Fury/RoF2_23Dec.swf) | Additional December build | 6.52 MB |
+| [RoadZ](games/Road_Of_Fury/RoadZ.swf) | Additional archived SWF | 4.98 MB |
 
-Adobe Flash Player powered a large part of the web for many years.
+<sub>Sizes are approximate decimal megabytes, calculated from the tracked file sizes. The exact game identity of RoadZ is not established by the metadata currently stored in the repository.</sub>
 
-It allowed websites to display interactive animations, games and multimedia content through the SWF format.
+### Archive copies and duplicate files
 
-However, Flash eventually became outdated as modern web standards developed.
+The original archive also contains files with generated names.
+
+Two pairs have identical Git object hashes:
+
+| Archive filename | Matching named file | Result |
+|---|---|---|
+| `551cfce133e26222247814.swf` | `Road_of_Fury.swf` | Identical content |
+| `56f50cd631cef330693067.swf` | `roadoffury2.swf` | Identical content |
+
+These entries are retained to preserve the archive's original file structure.
+
+### Game screenshots
+
+The repository includes genuine screenshots stored alongside the SWF files.
+
+<div align="center">
+
+### ROAD OF FURY
+
+<img src="games/Road_Of_Fury/roadoffury1-menu.png" width="92%" alt="Road of Fury first game menu screen"/>
+
+<sub>Original menu</sub>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="games/Road_Of_Fury/roadoffury1-gameplay1.png" width="100%" alt="Road of Fury first gameplay screenshot"/>
+<strong>Gameplay 01</strong>
+</td>
+<td align="center" width="50%">
+<img src="games/Road_Of_Fury/roadoffury1-gameplay2.jpg" width="100%" alt="Road of Fury second gameplay screenshot"/>
+<strong>Gameplay 02</strong>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:8D1010,50:FF6B35,100:FFB703" width="60%" alt="Game gallery divider"/>
+</p>
+
+### ROAD OF FURY 2
+
+<img src="games/Road_Of_Fury/roadoffury2-menu.png" width="92%" alt="Road of Fury 2 original menu screenshot"/>
+
+<sub>Original menu</sub>
+
+<br><br>
+
+<img src="games/Road_Of_Fury/roadoffury2-gameplay1.png" width="92%" alt="Road of Fury 2 gameplay screenshot"/>
+
+<sub>Gameplay</sub>
+
+<br><br>
+
+<img src="games/Road_Of_Fury/roadoffury2-z-Credits.png" width="80%" alt="Road of Fury 2 credits screen"/>
+
+<sub>Original game credits screen</sub>
+
+</div>
+
+The screenshots are included in the repository itself. They are not mockups or illustrations generated for this README.
+
+### Archive metadata
+
+The repository also keeps the Internet Archive metadata associated with the Road of Fury collection.
+
+The metadata identifies:
+
+| Field | Recorded information |
+|---|---|
+| Collection title | Road of Fury - Flash Game Series |
+| Creator | IriySoft |
+| Original archive identifier | `road-of-fury-flash-game-series` |
+| Archive date | December 29, 2014 |
+| Internet Archive public date | August 1, 2022 |
+| Media type | Software |
+| Main format | SWF |
+
+Original archive: [Internet Archive - Road of Fury Flash Game Series](https://archive.org/details/road-of-fury-flash-game-series).
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FFB703,40:FF6B35,100:8D1010" width="100%" alt="Gold orange red divider"/>
+</p>
+
+## 03 / The Flash Era
+
+Adobe Flash Player powered a large part of the interactive web for many years.
+
+It allowed websites to deliver animations, games and multimedia experiences through SWF files.
+
+Flash eventually became outdated as modern web standards developed.
+
+### Timeline
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi:calendar-star.svg?color=%23FFB703" width="45" alt="Timeline icon"/>
+
+</div>
 
 | Date | Event |
 |---|---|
-| December 31, 2020 | Adobe ended Flash Player support |
-| January 12, 2021 | Adobe blocked Flash content from running in Flash Player |
-| Today | Emulation and preservation projects keep old content accessible |
-
-### Why not use the original Flash Player?
+| 1996 | FutureWave's FutureSplash technology evolves into Macromedia Flash |
+| 2000s | Flash games and animations become a major part of browser culture |
+| 2005 | Adobe acquires Macromedia |
+| 2017 | Adobe announces the planned end of Flash Player |
+| December 31, 2020 | Adobe ends Flash Player support |
+| January 12, 2021 | Adobe blocks Flash content from running in Flash Player |
+| Today | Emulation and digital preservation projects keep Flash content accessible |
 
 Adobe no longer provides security updates for Flash Player and recommends uninstalling it.
 
-Using old or unofficial Flash Player installers can expose your computer to security risks.
+Official reference: [Adobe Flash Player End of Life](https://www.adobe.com/support/flash/releasenotes/player/rn_6.html).
 
-This project therefore recommends using **Ruffle** instead.
+### Why not use the original Flash Player?
 
-Reference: [Adobe Flash Player End of Life](https://www.adobe.com/support/flashplayer/)
+The original Adobe Flash Player is no longer supported.
 
-## `03` / Ruffle emulator
+It no longer receives security updates, and Adobe blocked Flash content from running in the player beginning January 12, 2021.
+
+Using unofficial old installers can expose your computer to security risks.
+
+This repository therefore recommends **Ruffle**, an independent open-source Flash emulator.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8D1010,50:E63946,100:FFB703" width="75%" alt="Red gold divider"/>
+</p>
+
+## 04 / Ruffle Emulator
 
 <div align="center">
 
 <a href="https://ruffle.rs/">
-<img src="https://ruffle.rs/logo.svg" width="180" alt="Ruffle logo" />
+<img src="https://ruffle.rs/logo.svg" width="185" alt="Official Ruffle emulator logo"/>
 </a>
 
 <br>
 
-[![Ruffle Release](https://img.shields.io/github/v/release/ruffle-rs/ruffle?style=flat&label=Latest%20release&color=E63946)](https://github.com/ruffle-rs/ruffle/releases)
-[![Rust](https://img.shields.io/badge/BUILT%20WITH-RUST-FF6B35?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Open Source](https://img.shields.io/badge/PROJECT-OPEN%20SOURCE-9D0208?style=flat&logo=github&logoColor=white)](https://github.com/ruffle-rs/ruffle)
+**A modern way to run old Flash content.**
+
+<br>
+
+[![Ruffle](https://img.shields.io/badge/EMULATOR-RUFFLE-FF6B35?style=flat)](https://ruffle.rs/)
+[![Rust](https://img.shields.io/badge/BUILT_WITH-RUST-CE422B?style=flat&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![WebAssembly](https://img.shields.io/badge/WEB-WASM-654FF0?style=flat&logo=webassembly&logoColor=white)](https://webassembly.org/)
+[![Open Source](https://img.shields.io/badge/PROJECT-OPEN_SOURCE-2E8B57?style=flat&logo=github&logoColor=white)](https://github.com/ruffle-rs/ruffle)
+[![Releases](https://img.shields.io/github/v/release/ruffle-rs/ruffle?style=flat&color=E63946&label=Latest%20Ruffle%20release)](https://github.com/ruffle-rs/ruffle/releases)
 
 </div>
 
-[Ruffle](https://ruffle.rs/) is an open-source Flash Player emulator written in Rust.
+[Ruffle](https://ruffle.rs/) is an open-source Adobe Flash Player emulator written in Rust.
 
-It recreates the Flash environment and allows SWF content to run on modern desktop systems and in web browsers through WebAssembly.
+It targets desktop environments and modern browsers through WebAssembly.
+
+Instead of installing the discontinued Adobe Flash Player, Ruffle recreates the environment necessary to run SWF content.
 
 ### Why Ruffle?
 
 | Feature | Description |
 |---|---|
 | Open source | Public source code and community development |
-| Cross-platform | Windows, macOS and Linux desktop builds |
-| Browser support | Flash content can run in compatible modern browsers |
+| Desktop support | Windows, macOS and Linux builds |
+| Browser support | Runs Flash content in compatible modern browsers |
+| WebAssembly | Makes browser-based emulation possible |
 | No Adobe Flash Player | Uses its own emulation implementation |
 | Active development | Compatibility continues to improve |
 
-### Compatibility
+### ActionScript compatibility
 
-Ruffle supports ActionScript 1, 2 and 3, but its implementation is still evolving.
+Flash games often rely on ActionScript, the programming language used to control game logic and interactive elements.
 
-Some games may contain unsupported features, visual glitches, audio problems or other compatibility issues.
+Ruffle supports ActionScript 1, 2 and 3, but compatibility is not complete.
+
+Some games may experience:
+
+- Missing visual elements.
+- Audio problems.
+- Unsupported functions.
+- Gameplay glitches.
+- Performance differences.
+- Complete failure to load.
+
+Compatibility depends on the individual SWF and the features it uses.
 
 Check the official [Ruffle compatibility page](https://ruffle.rs/compatibility) when a game does not work correctly.
 
-Official downloads: [ruffle.rs/downloads](https://ruffle.rs/downloads/)
+### Bundled Ruffle version
 
-## `04` / Game library
+This repository includes two Windows Ruffle files:
 
-The current collection focuses on the **Road of Fury** series and its associated files.
+| File | Size | Purpose |
+|---|---:|---|
+| `Ruffle/ruffle.exe` | 25.97 MB | Desktop executable |
+| `Ruffle/setup.msi` | 9.89 MB | Windows installer |
 
-<div align="center">
+The exact Ruffle build version of these two bundled files is not identified in the tracked repository metadata.
 
-### ROAD OF FURY
+The badge above follows the upstream Ruffle release information. It does not identify the version bundled in this repository.
 
-<img src="games/Road_Of_Fury/roadoffury1-menu.png" width="85%" alt="Road of Fury main menu" />
+For a recent version, use the official download page:
 
-<sub>Original game menu</sub>
+[**Download Ruffle**](https://ruffle.rs/downloads/).
 
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FFB703,50:FF6B35,100:E63946" width="100%" alt="Yellow orange red divider"/>
+</p>
 
-### Available games
-
-| Game / File | Description | Size |
-|---|---|---:|
-| [Road of Fury](games/Road_Of_Fury/Road_of_Fury.swf) | Original SWF file | 3.6 MB |
-| [Road of Fury 2](games/Road_Of_Fury/roadoffury2.swf) | Second game version | 6.5 MB |
-| [Road of Fury 2, December build](games/Road_Of_Fury/RoF2_23Dec.swf) | Additional build | 6.5 MB |
-| [RoadZ](games/Road_Of_Fury/RoadZ.swf) | Additional SWF file | 5.0 MB |
-
-Some files also exist under their original archive filenames. Identical copies have been retained where useful for preserving the source archive structure.
-
-### Game screenshots
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="games/Road_Of_Fury/roadoffury1-gameplay1.png" width="100%" alt="Road of Fury gameplay screenshot" />
-<br>
-<strong>Road of Fury</strong>
-<br>
-<sub>Gameplay</sub>
-</td>
-<td align="center" width="50%">
-<img src="games/Road_Of_Fury/roadoffury1-gameplay2.jpg" width="100%" alt="Road of Fury gameplay screenshot 2" />
-<br>
-<strong>Road of Fury</strong>
-<br>
-<sub>Gameplay</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="games/Road_Of_Fury/roadoffury2-menu.png" width="100%" alt="Road of Fury 2 menu" />
-<br>
-<strong>Road of Fury 2</strong>
-<br>
-<sub>Main menu</sub>
-</td>
-<td align="center" width="50%">
-<img src="games/Road_Of_Fury/roadoffury2-gameplay1.png" width="100%" alt="Road of Fury 2 gameplay" />
-<br>
-<strong>Road of Fury 2</strong>
-<br>
-<sub>Gameplay</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-The game directory also contains additional screenshots, credits and archive metadata.
-
-## `05` / Installation
+## 05 / Installation
 
 Ruffle is available for Windows, macOS and Linux.
 
-[![Download Ruffle](https://img.shields.io/badge/DOWNLOAD-RUFFLE-E63946?style=for-the-badge&logo=github&logoColor=white)](https://ruffle.rs/downloads/)
+This repository includes a Windows desktop executable and an MSI installer.
 
 ### Windows
 
-This repository includes a Windows Ruffle executable and an MSI installer inside the `Ruffle/` directory.
+<badge color="success">Bundled player available</badge>
 
 **Option A: Use the included executable**
 
-1. Open the repository folder.
-2. Enter the `Ruffle/` directory.
-3. Launch `ruffle.exe`.
-4. Select a SWF file.
+1. Download or clone this repository.
+2. Open the `Ruffle/` directory.
+3. Run `ruffle.exe`.
+4. Select a SWF file from the game archive.
 5. Start playing.
 
-**Option B: Download a fresh version**
+The included player is portable, so this method does not require running the MSI installer.
+
+**Option B: Install Ruffle**
+
+1. Open the `Ruffle/` directory.
+2. Launch `setup.msi`.
+3. Follow the Windows installation wizard.
+4. Start Ruffle from the installed application.
+5. Open the desired SWF file.
+
+**Option C: Download an updated build**
 
 1. Visit the [official Ruffle downloads page](https://ruffle.rs/downloads/).
-2. Download the Windows desktop version.
-3. Extract the archive.
-4. Launch Ruffle.
+2. Select the Windows desktop build.
+3. Download and extract the archive if required.
+4. Launch the desktop application.
 5. Open your SWF file.
 
-The bundled version may be older than the current release. Check the official page for updates.
+The bundled files may not be the latest version. Check the official release page when troubleshooting compatibility problems.
 
 ### macOS
 
 1. Visit the [official Ruffle downloads page](https://ruffle.rs/downloads/).
 2. Download the macOS desktop build.
-3. Extract the archive.
+3. Follow the installation instructions.
 4. Open Ruffle.
-5. Select your SWF file.
+5. Load your SWF file.
 
 ### Linux
 
 1. Visit the [official Ruffle downloads page](https://ruffle.rs/downloads/).
 2. Select the appropriate Linux build for your architecture.
-3. Extract the archive.
+3. Download and extract it.
 4. Follow the included instructions.
-5. Launch Ruffle with your SWF file.
+5. Launch Ruffle and load your SWF file.
 
-For more information, consult the [Ruffle documentation](https://github.com/ruffle-rs/ruffle/wiki).
+For additional details, consult the [Ruffle Wiki](https://github.com/ruffle-rs/ruffle/wiki).
 
-## `06` / How to play
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8D1010,50:FF6B35,100:FFB703" width="75%" alt="Red orange gold divider"/>
+</p>
 
-Once Ruffle is installed, you can launch a game using several methods.
+## 06 / How to Play
 
-### Method 1: Open a file
+Once Ruffle is installed, you can open an archived game in several ways.
 
-1. Start Ruffle.
-2. Select **Browse** or **Open File**.
-3. Navigate to the game folder.
-4. Select your `.swf` file.
-5. Start playing.
+### Method 1: Browse for a SWF file
+
+1. Start the Ruffle desktop application.
+2. Select the option to open or browse for a file.
+3. Navigate to the repository's `games/` folder.
+4. Open a `.swf` file.
+5. Wait for the emulator to load it.
+
+Example:
+
+```text
+games/
+└── Road_Of_Fury/
+    └── Road_of_Fury.swf
+```
 
 ### Method 2: Drag and drop
 
-1. Open the Ruffle desktop application.
-2. Drag a SWF file into the window.
-3. The game should load automatically.
+1. Launch Ruffle.
+2. Open the folder containing the game.
+3. Drag the `.swf` file into the Ruffle window.
+4. Wait for the game to load.
 
 ### Method 3: Command line
 
-**Windows**
+On Windows, from the repository root:
 
 ```powershell
-.\Ruffle\ruffle.exe .\games\Road_Of_Fury\Road_of_Fury.swf
+.\Ruffle\ruffle.exe ".\games\Road_Of_Fury\Road_of_Fury.swf"
 ```
 
-**Linux / macOS**
+This uses the bundled desktop executable. Command-line argument support can depend on the bundled build.
 
-```bash
-ruffle ./games/Road_Of_Fury/Road_of_Fury.swf
-```
+### Method 4: Ruffle Web Demo
 
-The Linux and macOS example assumes that Ruffle is available in your PATH. Otherwise, use the actual path to the executable.
-
-### Method 4: Browser demo
-
-Ruffle also provides an online demo that can load local SWF files.
+Ruffle also provides an online demonstration that can load local SWF files.
 
 1. Open the [Ruffle Web Demo](https://ruffle.rs/demo/).
-2. Select the SWF file from your computer.
-3. Wait for the emulator to load the game.
+2. Select the file browser.
+3. Choose a SWF file from your computer.
+4. Let the emulator load the game.
 
 No Adobe Flash Player installation is required.
 
-## `07` / Discover more games
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FFB703,45:FF6B35,100:8D1010" width="100%" alt="Gold orange dark red divider"/>
+</p>
 
-Ruffle is an emulator, not a game collection. You need to obtain SWF files separately.
+## 07 / More Flash Preservation Projects
 
-These projects help preserve and document old browser games.
+Ruffle is an emulator, not a complete game collection. It allows you to run compatible SWF files, but it does not provide all the games itself.
 
-| Project | Description | Website |
+The following projects help preserve old games and software.
+
+<div align="center">
+
+<img src="https://api.iconify.design/mdi:archive-star.svg?color=%23FFB703" width="52" alt="Digital archive icon"/>
+<img src="https://api.iconify.design/mdi:database-search.svg?color=%23FF6B35" width="52" alt="Archive search icon"/>
+<img src="https://api.iconify.design/mdi:controller-classic.svg?color=%23E63946" width="52" alt="Classic gaming icon"/>
+
+</div>
+
+| Project | Description | Link |
 |---|---|---|
-| Internet Archive | Preserved Flash software and games | [Flash collection](https://archive.org/details/softwarelibrary_flash) |
-| Flashpoint Archive | Digital game preservation project | [Official website](https://flashpointarchive.org/) |
-| Newgrounds | Original games and animations | [Newgrounds](https://www.newgrounds.com/) |
+| Internet Archive | Digital preservation of software, games and media | [Flash collection](https://archive.org/details/softwarelibrary_flash) |
+| Flashpoint Archive | Preservation and playback platform for web games | [Official website](https://flashpointarchive.org/) |
+| Newgrounds | Original games, animations and creative community | [Newgrounds](https://www.newgrounds.com/) |
+| Ruffle | Open-source Flash emulator | [Ruffle](https://ruffle.rs/) |
 
 ### Ruffle vs Flashpoint
 
-These projects serve different purposes.
+These projects have different purposes.
 
 | Ruffle | Flashpoint |
 |---|---|
 | Flash emulator | Game preservation platform |
-| Runs SWF content | Organizes and launches preserved games |
+| Runs compatible SWF content | Organizes and launches preserved games |
 | Desktop and browser support | Dedicated desktop application |
-| Does not provide a complete game library | Provides a large curated collection |
+| Does not provide a complete game library | Provides a curated collection |
+| Focuses on emulation | Focuses on preserving web games |
 
-Flashpoint also documents how games can be preserved and contributed to its archive.
+Flashpoint also provides information about contributing to game preservation.
 
-More information: [Flashpoint FAQ](https://flashpointarchive.org/faq)
+[Flashpoint FAQ](https://flashpointarchive.org/faq).
 
-**Copyright:** An old game is not automatically free to redistribute. Always check the rights and licensing conditions before sharing game files.
+### Copyright and redistribution
 
-## `08` / Troubleshooting
+An old Flash game is not automatically free to redistribute.
+
+Before downloading, uploading, modifying or sharing a game, check the rights and licensing conditions of the original creator.
+
+Preservation and public availability do not automatically grant permission to redistribute copyrighted game files.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8D1010,50:E63946,100:FFB703" width="75%" alt="Red yellow divider"/>
+</p>
+
+## 08 / Troubleshooting
 
 | Problem | Possible cause | Suggested solution |
 |---|---|---|
 | Black screen | Unsupported SWF feature | Check Ruffle compatibility |
-| Game does not start | Unsupported ActionScript feature | Try another build or Ruffle release |
-| Missing images or sounds | External assets are missing | Keep the original game files together |
-| No keyboard input | The player window is not focused | Click inside the game window |
+| Game does not start | Unsupported ActionScript feature | Try a recent Ruffle build |
+| Missing images | External game resources are missing | Preserve related files together |
+| No keyboard input | Player window is not focused | Click inside the game window |
 | No sound | Audio compatibility or system settings | Check audio settings |
-| Game freezes | Emulator limitation or corrupted SWF | Try another SWF version |
-| Multiplayer does not work | Original server is no longer available | Check for a preservation project |
+| Game freezes | Emulator limitation or corrupted SWF | Try another available build |
+| Multiplayer does not work | Original game server is unavailable | Search for an archived or community-hosted alternative |
+| Ruffle crashes | Old bundled build or system incompatibility | Try the latest official version |
 
-Useful support pages:
+Useful support resources:
 
 - [Ruffle compatibility](https://ruffle.rs/compatibility)
 - [Ruffle issue tracker](https://github.com/ruffle-rs/ruffle/issues)
 - [Ruffle Wiki](https://github.com/ruffle-rs/ruffle/wiki)
+- [Ruffle downloads](https://ruffle.rs/downloads/)
 
-## `09` / Repository structure
+## 09 / Repository Structure
+
+The following is the actual tracked structure of the current `main` branch.
 
 ```text
-Jouer-aux-anciens-jeux-Flash/
+Play-old-Flash-games/
 │
-├── README.md
 ├── LICENSE
+├── README.md
 │
 ├── Ruffle/
-│   ├── ruffle.exe
-│   ├── setup.msi
 │   ├── LICENSE.md
-│   └── README-RUFFLE.md
+│   ├── README-RUFFLE.md
+│   ├── ruffle.exe
+│   └── setup.msi
 │
 └── games/
+    │
     ├── Road_Of_Fury/
     │   ├── Road_of_Fury.swf
+    │   ├── 551cfce133e26222247814.swf
     │   ├── roadoffury2.swf
+    │   ├── 56f50cd631cef330693067.swf
     │   ├── RoF2_23Dec.swf
     │   ├── RoadZ.swf
-    │   ├── Screenshots
-    │   └── Archive metadata
+    │   │
+    │   ├── __ia_thumb.jpg
+    │   ├── road-of-fury-flash-game-series_archive.torrent
+    │   ├── road-of-fury-flash-game-series_files.xml
+    │   ├── road-of-fury-flash-game-series_meta.sqlite
+    │   ├── road-of-fury-flash-game-series_meta.xml
+    │   ├── road-of-fury-flash-game-series_reviews.xml
+    │   │
+    │   ├── roadoffury1-menu.png
+    │   ├── roadoffury1-gameplay1.png
+    │   ├── roadoffury1-gameplay2.jpg
+    │   ├── roadoffury2-menu.png
+    │   ├── roadoffury2-gameplay1.png
+    │   └── roadoffury2-z-Credits.png
     │
     └── Un autre jeu/
+        └── jeu
 ```
 
-## `10` / Adding a game
+### Important files
+
+| Path | Purpose |
+|---|---|
+| `Ruffle/ruffle.exe` | Bundled Windows desktop emulator |
+| `Ruffle/setup.msi` | Bundled Windows installer |
+| `Ruffle/README-RUFFLE.md` | Ruffle project documentation |
+| `Ruffle/LICENSE.md` | Ruffle license information |
+| `games/Road_Of_Fury/` | Archived SWF games, screenshots and metadata |
+| `LICENSE` | Main repository CC0 1.0 license |
+
+The file `games/Un autre jeu/jeu` is currently a one-byte file, not a usable game archive.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=0:FFB703,40:FF6B35,100:E63946" width="100%" alt="Gold orange red divider"/>
+</p>
+
+## 10 / Adding a Game
 
 Have a classic Flash game worth preserving?
 
 Contributions and suggestions are welcome.
 
-When adding a game, try to include:
+When adding a game, include as much information as possible:
 
 - The original SWF file.
-- Its original filename when available.
+- Its original filename.
+- The creator or original website.
 - A screenshot or preview.
-- The source or archive reference.
+- The archive or source reference.
 - Version information.
 - Licensing and redistribution information.
+- Related assets required by the game.
+
+### Recommended folder organization
+
+```text
+games/
+└── Game_Name/
+    ├── Game_Name.swf
+    ├── screenshot-menu.png
+    ├── screenshot-gameplay.png
+    ├── metadata.xml
+    └── README.md
+```
 
 Keep each game in its own folder and preserve related files whenever possible.
 
 Do not upload material that you do not have permission to redistribute.
 
-## `11` / License and credits
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:8D1010,50:FF6B35,100:FFB703" width="75%" alt="Red orange gold divider"/>
+</p>
 
-The repository contains a **CC0 1.0 Universal** license.
+## 11 / Acknowledgements & Credits
 
-This license applies to original material that the repository owner has the right to dedicate to the public domain.
+This project exists because of the developers, archivists and communities that helped make Flash gaming part of Internet history.
 
-It does not automatically change the copyright or licensing conditions of third-party games, screenshots, emulator binaries or other archived material.
+### Original acknowledgements
 
-### Credits
+The original credits and references are preserved:
 
-- **Ruffle Team:** Flash emulation and preservation.
-- **Flashpoint Archive:** Game preservation.
-- **Internet Archive:** Digital preservation.
-- **Original game developers:** For creating the games that made the Flash era memorable.
+- **Ruffle Team:** for developing and maintaining an open-source Flash emulator.
+- **Flashpoint Archive:** for preserving browser games and interactive content.
+- **Internet Archive:** for digital preservation and access to historical software archives.
+- **Original game developers:** for creating the games and experiences that made the Flash era memorable.
 
----
+### Road of Fury
+
+The Internet Archive metadata included in this repository identifies **IriySoft** as the creator of the Road of Fury Flash Game Series.
+
+- [IriySoft](https://www.riysoft.com/) - original game creator, as identified by the archive metadata.
+- [Internet Archive - Road of Fury Flash Game Series](https://archive.org/details/road-of-fury-flash-game-series) - source archive and metadata.
+
+The original creators deserve recognition for their work. Archiving a game does not transfer its copyright.
+
+### Tools and technical resources
+
+- [**Ruffle**](https://github.com/ruffle-rs/ruffle) for the Flash emulator included in this repository.
+- [**Adobe Flash documentation**](https://www.adobe.com/support/flashplayer/) for historical information about Flash Player.
+- [**Flashpoint Archive**](https://flashpointarchive.org/) for game preservation references.
+- [**Internet Archive**](https://archive.org/) for archival metadata and historical software.
+- [**GitHub**](https://github.com/) for repository hosting and version control.
+
+### Visual resources
+
+- [**Capsule Render**](https://github.com/kyechan99/capsule-render) for the header, section dividers and footer SVG banners.
+- [**Readme Typing SVG**](https://github.com/DenverCoder1/readme-typing-svg) for the animated retro text.
+- [**Iconify**](https://iconify.design/) for SVG icons.
+- [**Shields.io**](https://shields.io/) for badges.
+
+### Licensing note
+
+The main repository contains a **CC0 1.0 Universal** license.
+
+That license applies only to original material that the repository owner has the right to dedicate to the public domain.
+
+It does not automatically change the copyright or licensing conditions of:
+
+- Third-party SWF games.
+- Original game screenshots and artwork.
+- Ruffle binaries and installer.
+- Other archived media.
+
+Ruffle is separately distributed under the MIT or Apache License 2.0, at the user's option. Its bundled license information is preserved in `Ruffle/LICENSE.md`.
+
+Always check the relevant rights before redistributing archived content.
+
+Thank you to everyone who helped preserve the history of browser games, animations and interactive Internet culture.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:FFB703,35:FF6B35,70:E63946,100:5C0000" width="100%" alt="Gold orange red dark red divider"/>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120000,30:5C0000,65:B5121B,100:FF4D00&height=150&section=footer&animation=fadeIn" width="100%" alt="Flash Archive footer" />
+<img src="https://api.iconify.design/game-icons:joystick.svg?color=%23FF6B35" width="48" height="48" alt="Arcade joystick"/>
+<img src="https://api.iconify.design/game-icons:gamepad.svg?color=%23FFB703" width="48" height="48" alt="Gamepad"/>
+<img src="https://api.iconify.design/game-icons:pixel-heart.svg?color=%23E63946" width="48" height="48" alt="Pixel heart"/>
+<img src="https://api.iconify.design/mdi:flash.svg?color=%23FF6B35" width="48" height="48" alt="Flash lightning"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3500&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&height=35&lines=THANKS+FOR+VISITING!;KEEP+THE+FLASH+ERA+ALIVE.;INSERT+COIN+TO+PLAY+AGAIN." alt="Animated footer text" />
+## THANK YOU FOR VISITING FLASH ARCHIVE
+
+**The golden age of browser gaming deserves to be remembered.**
 
 <br>
 
-### FLASH ARCHIVE
+### Created and maintained by
 
-**Preserving games. Keeping memories alive.**
-
-<br>
+# [RufusTheDwarf](https://github.com/RufusTheDwarf)
 
 [![GitHub](https://img.shields.io/badge/GITHUB-RUFUSTHEDWARF-181717?style=flat&logo=github&logoColor=white)](https://github.com/RufusTheDwarf)
-[![Repository](https://img.shields.io/badge/ARCHIVE-FLASH%20GAMES-E63946?style=flat&logo=git&logoColor=white)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash)
-[![Star](https://img.shields.io/badge/LIKE%20THE%20PROJECT-LEAVE%20A%20STAR-FFB703?style=flat&logo=github&logoColor=black)](https://github.com/RufusTheDwarf/Jouer-aux-anciens-jeux-Flash/stargazers)
+[![Project](https://img.shields.io/badge/PROJECT-FLASH_ARCHIVE-E63946?style=flat&logo=git&logoColor=white)](https://github.com/RufusTheDwarf/Play-old-Flash-games)
+[![CC0](https://img.shields.io/badge/LICENSE-CC0_1.0-FFB703?style=flat)](LICENSE)
+[![Ruffle](https://img.shields.io/badge/EMULATOR-RUFFLE-FF6B35?style=flat)](https://ruffle.rs/)
+[![Preservation](https://img.shields.io/badge/MISSION-DIGITAL_PRESERVATION-7B2CBF?style=flat)](https://archive.org/)
 
 <br>
 
-<sub>Digital nostalgia · Game preservation · 2026</sub>
+[![Star the Project](https://img.shields.io/badge/STAR_THIS_ARCHIVE-FFB703?style=flat&logo=github&logoColor=181717)](https://github.com/RufusTheDwarf/Play-old-Flash-games/stargazers)
+[![Open an Issue](https://img.shields.io/badge/REPORT_AN_ISSUE-E63946?style=flat&logo=github&logoColor=white)](https://github.com/RufusTheDwarf/Play-old-Flash-games/issues)
+[![Explore Ruffle](https://img.shields.io/badge/EXPLORE_RUFFLE-FF6B35?style=flat)](https://ruffle.rs/)
 
 <br>
 
-**GAME OVER? NOT YET.**
+**INSERT COIN. PRESS START. PLAY AGAIN.**
+
+<sub>Digital nostalgia · Game preservation · © 2026 RufusTheDwarf</sub>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3200&pause=900&color=FFB703&center=true&vCenter=true&width=650&height=38&lines=THANKS+FOR+KEEPING+THE+MEMORIES+ALIVE.;GAME+OVER%3F+NOT+YET.;SEE+YOU+IN+THE+NEXT+LEVEL." alt="Animated arcade footer message"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100000,20:410000,45:8D1010,72:E52D27,100:FF6B00&height=165&section=footer&animation=fadeIn" width="100%" alt="Centered Flash Archive retro red and orange footer"/>
 
 </div>
